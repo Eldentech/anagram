@@ -5,5 +5,5 @@ Because I'm testing system exit codes it needs to override Security Manager and 
 # Build
 For building ``mvnw clean package``
 
-# Build
+# Run
 For running ``mvnw exec:java``
